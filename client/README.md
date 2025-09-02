@@ -2,18 +2,25 @@ Customer Management App
  A simple full-stack application to manage customers and their addresses.
  Built using React (frontend) and Node.js + Express (backend) with SQLite as the database.
 
-# Project Structure
- customer-management-app
+
+---
+
+## Project Structure
+
+customer-management-app
+│
 ├── client/ # React frontend
 │ ├── src/
 │ │ ├── components/
 │ │ ├── App.js
 │ │ └── index.js
 │ └── package.json
+│
 ├── server/ # Backend
 │ ├── index.js
 │ ├── database.db
 │ └── package.json
+│
 └── README.md
 
 # Features- 
