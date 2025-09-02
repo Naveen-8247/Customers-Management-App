@@ -23,7 +23,6 @@ customer-management-app
 └── README.md
 
 
-
 ---
 
 ## Features
