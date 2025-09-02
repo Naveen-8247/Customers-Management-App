@@ -4,16 +4,17 @@ Customer Management App
 
 # Project Structure
  customer-management-app
- /- client/       # React frontend
-  - src/
-    - components/
-    - App.js
-    - index.js
-- package.json
-/- server/       # Backend
-  - index.js
-  - database.db
-  - package.json- README.md
+├── client/ # React frontend
+│ ├── src/
+│ │ ├── components/
+│ │ ├── App.js
+│ │ └── index.js
+│ └── package.json
+├── server/ # Backend
+│ ├── index.js
+│ ├── database.db
+│ └── package.json
+└── README.md
 
 # Features- 
  
